@@ -1,0 +1,20 @@
+.home-title{
+	font-size: 4rem;
+}
+a{
+	font-size: 2rem;
+}
+.useless-link{
+	color: darkred;
+	background-color: aqua;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.about-link{
+	color: aqua;
+	background-color: darkred;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.html-img{
+	border: 8px solid #fa4b5e;
+	border-radius: 50%;
+}
